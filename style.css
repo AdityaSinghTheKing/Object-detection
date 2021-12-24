@@ -1,0 +1,11 @@
+#image{
+    float:right;
+    width: 200px;
+}
+.form-control{
+    width: 20%;
+}
+body{
+    background-position: center;
+}
+canvas{ border: 2px solid black; margin-top: 150px; }
